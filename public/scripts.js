@@ -1,4 +1,4 @@
-const applicationServerKey = '<public-vapid-key>';
+const applicationServerKey = 'BGpUNUds2d6HImjrM-BaDx1YCmpCxLerq9z33ePFvYbUBwwEPHrrd0mj8rdbNZNdbdk5oCkfzmBm0xutGxac5h0';
 const apiPort = 8080;
 const swInfoEl = document.getElementById('sw_info');
 const subInfoEl = document.getElementById('sub_info');
